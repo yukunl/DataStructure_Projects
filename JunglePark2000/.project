@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JunglePark2000</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>processingLibrary.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/processingLibrary.jar</locationURI>
+		</link>
+		<link>
+			<name>images/background.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/background.png</locationURI>
+		</link>
+		<link>
+			<name>images/deer.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/deer.png</locationURI>
+		</link>
+		<link>
+			<name>images/tiger.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/tiger.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
